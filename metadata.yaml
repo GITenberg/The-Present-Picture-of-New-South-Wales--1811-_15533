@@ -1,0 +1,27 @@
+_repo: The-Present-Picture-of-New-South-Wales--1811-_15533
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mann, D. D. (David Dickinson)
+    alias: Mann, David Dickinson
+    gutenberg_agent_id: '6110'
+    url: http://www.gutenberg.org/2009/agents/6110
+description: ''
+gutenberg_bookshelf: Australia
+gutenberg_issued: '2005-04-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15533'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New South Wales -- History'
+- !lcc 'DU'
+- !lcsh 'New South Wales -- Social life and customs'
+title: The Present Picture of New South Wales (1811)
+url: http://www.gutenberg.org/ebooks/15533
